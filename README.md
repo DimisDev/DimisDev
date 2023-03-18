@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.youtube.com/@Dimis247"> 
-  <img href="https://www.transparentpng.com/thumb/youtube-logo/hd-youtube-logo-image-0.png"> 
-</a> 
+  <img src="https://www.transparentpng.com/thumb/youtube-logo/hd-youtube-logo-image-0.png" href="https://www.youtube.com/@Dimis247" alt="Discord">
 </p>
   
 <div align="center">
